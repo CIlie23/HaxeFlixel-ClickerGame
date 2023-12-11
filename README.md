@@ -1,5 +1,5 @@
 # HaxeFlixel-ClickerGame
-A basic clicker game made in haxe flixel. I don't feel like working on anymore
+A basic clicker game made in haxe flixel. I don't feel like working on it anymore
 
 ## Features:
 A a golden cookie that spawns at a set interval and gives you 10 cookies ! (Wow!)
